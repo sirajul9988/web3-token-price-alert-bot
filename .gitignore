@@ -1,0 +1,3 @@
+node_modules
+logs/price-log.json
+data/history.json
